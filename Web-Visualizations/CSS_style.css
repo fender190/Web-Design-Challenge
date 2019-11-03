@@ -6,7 +6,7 @@
 }
 
 ul.navbar-nav {
-    float: right;
+    text-align: right;
 }
 
 table.tableizer-table {
@@ -23,4 +23,9 @@ table.tableizer-table {
     background-color: #000000; 
     color: rgb(255, 255, 255);
     font-weight: bold;
+}
+
+footer{
+    background-color: aqua;
+    text-align: center;
 }
